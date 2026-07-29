@@ -1,3 +1,9 @@
+# ==========================================
+# Password Strength Checker
+# Created by Snehal
+# Language: Python
+# ==========================================
+
 password = input("Enter your password :")
 
 has_upper = False
